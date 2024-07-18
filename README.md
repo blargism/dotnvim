@@ -1,4 +1,3 @@
-# 💤 LazyVim
+# My Janky LazyNvim Based Nvim Config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
+No idea what I'm doing, but I'm having fun!

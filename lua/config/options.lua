@@ -8,3 +8,4 @@ require("noice").setup({
 })
 
 vim.g.root_spec = { "cwd" }
+vim.g.lazyvim_prettier_needs_config = true
